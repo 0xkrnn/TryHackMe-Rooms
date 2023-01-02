@@ -1,5 +1,5 @@
 # TryHackMe-Rooms
-Here are some list of free Try hack me room links 
+Here are some list of free Try hack me room list! You should definitely check out  
 
 Intro:
 
