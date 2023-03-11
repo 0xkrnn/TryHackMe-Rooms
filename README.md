@@ -66,6 +66,7 @@ https://tryhackme.com/room/introtolan </br>
 https://tryhackme.com/room/httpindetail </br>
 https://tryhackme.com/room/dnsindetail </br>
 https://tryhackme.com/room/rfirmware </br>
+https://tryhackme.com/room/bugged </br>
 
 Tooling: </br>
 
@@ -104,6 +105,7 @@ https://tryhackme.com/room/vulnerabilities101 </br>
 https://tryhackme.com/room/walkinganapplication </br>
 https://tryhackme.com/room/owasptop10 </br>
 https://tryhackme.com/room/owaspjuiceshop </br>
+https://tryhackme.com/room/owasptop102021 </br>
 https://tryhackme.com/room/rpwebscanning </br>
 https://tryhackme.com/room/owaspmutillidae </br>
 https://tryhackme.com/room/webgoat </br>
@@ -129,6 +131,7 @@ https://tryhackme.com/room/forensics </br>
 https://tryhackme.com/room/memoryforensics </br>
 https://tryhackme.com/room/bpvolatility </br>
 https://tryhackme.com/room/autopsy2ze0 </br>
+https://tryhackme.com/room/unattended </br>
 
 Wifi Hacking: </br>
 
