@@ -442,3 +442,9 @@ https://tryhackme.com/room/solar </br>
 https://tryhackme.com/room/contiransomwarehgh </br>
 https://tryhackme.com/room/dirtypipe </br>
  </br>
+ 
+ CVE's :</br>
+ 
+ CVE-2023-23397 - https://tryhackme.com/room/outlookntlmleak
+ 
+ 
