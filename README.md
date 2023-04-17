@@ -88,6 +88,10 @@ https://tryhackme.com/room/ffuf </br>
 https://tryhackme.com/room/burpsuitebasics </br>
 https://tryhackme.com/room/burpsuiterepeater </br>
 
+Penetration testing </br>
+
+https://tryhackme.com/room/opacity </br>
+
 Crypto & Hashes: </br>
 
 https://tryhackme.com/room/cryptographyfordummies </br>
@@ -446,5 +450,7 @@ https://tryhackme.com/room/dirtypipe </br>
  CVE's :</br>
  
  CVE-2023-23397 - https://tryhackme.com/room/outlookntlmleak
+ 
+ SOC's : </br>
  
  
